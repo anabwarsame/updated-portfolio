@@ -19,11 +19,11 @@ greatest developers you have ever set your eyes on.
 
 ### Professional Portfolio Screenshots
 
-<img width="1440" alt="Screenshot 2021-11-14 at 05 30 40" src="https://user-images.githubusercontent.com/91003882/141669893-b1e0930b-f891-4880-86d1-ebe3e1153e7c.png">
+<img width="1440" alt="Screenshot 2022-03-25 at 13 38 12" src="https://user-images.githubusercontent.com/91003882/160131765-a726957a-c214-4e04-a922-e9000119cc95.png">
 
-<img width="1440" alt="Screenshot 2021-11-14 at 05 30 55" src="https://user-images.githubusercontent.com/91003882/141669909-ec128d0d-2ec5-4ccf-ac72-9e7ea1625302.png">
+<img width="1440" alt="Screenshot 2022-03-25 at 13 38 25" src="https://user-images.githubusercontent.com/91003882/160131856-7a1ce732-62d5-4631-88fb-0683f3215e72.png">
 
-<img width="1440" alt="Screenshot 2021-11-14 at 05 31 11" src="https://user-images.githubusercontent.com/91003882/141669924-fc66a464-ad6c-44f1-a4c6-52bbffdcf8d8.png">
+<img width="1440" alt="Screenshot 2022-03-25 at 13 38 34" src="https://user-images.githubusercontent.com/91003882/160131957-d1d733ab-c1c6-4703-80dc-8559c8fe3d53.png">
 
 ## CV screenshots
 
